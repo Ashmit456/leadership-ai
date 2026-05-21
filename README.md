@@ -1,4 +1,4 @@
-# Bhumi — Run Instructions
+# Run Instructions
 
 This repository contains a Python backend (FastAPI) and a Next.js web frontend. The frontend does not require the backend to run (it evaluates candidates locally), but the backend can be run separately for API access.
 
